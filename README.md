@@ -15,8 +15,9 @@ Tech & Skills
   2. Java
   3. XML for Fronted
   4. Firebase Integration for Database
-  5. Google Map API 
+  5. Google Map API
   6. Machine Learning Kit
+  7. Created a Huge Data(BIG DATA) from App which we can use by Python to get insight from it for better experience of passenger in buses.
  
  About the Project:
  
