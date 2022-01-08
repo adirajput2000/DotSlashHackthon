@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/white"
     android:layout_width="match_parent"
+    android:backgroundTint="#51459D"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -11,14 +12,13 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="44dp"
-        android:textAlignment="center"
+        android:layout_marginTop="216dp"
         android:letterSpacing="0.1"
-        android:text="BUS TRACKING APPLICATION \n FOR SMART CITIES"
-        android:textColor="@android:color/black"
+        android:text="BUS TRACKER"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
         android:textSize="20sp"
-        android:textStyle="bold"
-        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -30,6 +30,7 @@
         android:layout_marginLeft="30sp"
         android:layout_marginRight="30sp"
         android:layout_marginTop="160dp"
+        android:backgroundTint="#39D0BB"
         android:padding="15sp"
         android:text="Driver? Click Here"
         app:layout_constraintEnd_toEndOf="parent"
@@ -41,14 +42,14 @@
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="104dp"
         android:layout_marginLeft="30sp"
+        android:layout_marginTop="76dp"
         android:layout_marginRight="30sp"
         android:padding="15sp"
 
+        android:backgroundTint="#39D0BB"
         android:text="Passenger? Click Here"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button" />
 
@@ -58,11 +59,21 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="40dp"
         android:text="An Application by Aditya tomar"
-        android:textColor="@color/black"
-        android:textStyle="bold"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="144dp"
+        android:layout_height="132dp"
+        android:layout_marginTop="64dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/front_image" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
