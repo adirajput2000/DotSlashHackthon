@@ -1,0 +1,9 @@
+package com.adityarajput.bustrackwar;
+
+
+class Constants
+{
+    static final int LOCATION_SERVICE_ID= 170;
+    static final String ACTION_START_LOCATION_SERVICE = "startLocationService";
+    static final String ACTION_STOP_LOCATION_SERVICE = "stopLocationService";
+}

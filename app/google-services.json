@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1012154387767",
+    "project_id": "bustracker-9991e",
+    "storage_bucket": "bustracker-9991e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012154387767:android:16415b145d28449f8c5eb2",
+        "android_client_info": {
+          "package_name": "com.adityarajput.bustrackwar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012154387767-b767o7ma1ak65dgl0kq0uomfbj0q92s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrXJpeTjHMUbVQuKH35kNXMUxrVhce50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012154387767-b767o7ma1ak65dgl0kq0uomfbj0q92s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012154387767:android:75729223ac943d1e8c5eb2",
+        "android_client_info": {
+          "package_name": "com.adityatomar.smartcitiesbustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012154387767-b767o7ma1ak65dgl0kq0uomfbj0q92s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrXJpeTjHMUbVQuKH35kNXMUxrVhce50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012154387767-b767o7ma1ak65dgl0kq0uomfbj0q92s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
