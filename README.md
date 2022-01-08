@@ -1,5 +1,11 @@
 # DotSlashHackthon
 
+Introduction:
+
+I am Aditya tomar currently pursuing an online degree from IIT Madras in Programming and Data Science and along that i am also pursuing my Master of Science from SVNIT Surat.
+I like to code from starting. I have good experience in Coding. I have knowledge of different languages and concepts like C++, C, Java, MySql, HTML, CSS, BootStrap, Java Script, Node.js, DSA, Android Studio, Firebase, Python along with Numpy and Pandas and basic of Machine Learning.
+
+
 Project Name -  Bus Track War
 Problem - Hack for Smart Cities
 
@@ -34,3 +40,5 @@ Tech & Skills
  Here i care for bus driver also, that is if he don't want to share its position 
  just simple he can off its shared location.
  
+ if you are here, I am expecting you read all above text.
+ Thank you 
