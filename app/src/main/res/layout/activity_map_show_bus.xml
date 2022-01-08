@@ -4,6 +4,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:weightSum="1"
+    android:background="@color/white"
+
+    android:backgroundTint="#51459D"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical">
 
@@ -31,7 +34,7 @@
         android:layout_marginEnd="328dp"
         android:layout_marginBottom="271dp"
         android:text="Bus No."
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textStyle="bold" />
 
     <TextView
@@ -46,7 +49,7 @@
         android:layout_marginEnd="78dp"
         android:layout_marginBottom="271dp"
         android:text="Last Station"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textStyle="bold" />
 
     <TextView
@@ -60,7 +63,7 @@
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="271dp"
         android:text="TextView"
-        android:textColor="@color/black" />
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textView43"
@@ -73,7 +76,7 @@
         android:layout_marginEnd="294dp"
         android:layout_marginBottom="230dp"
         android:text="Empty Seat"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textStyle="bold" />
 
     <TextView
@@ -87,7 +90,7 @@
         android:layout_marginEnd="227dp"
         android:layout_marginBottom="192dp"
         android:text="Station in Journey"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textStyle="bold" />
 
     <TextView
@@ -101,7 +104,7 @@
         android:layout_marginEnd="195dp"
         android:layout_marginBottom="230dp"
         android:text="TextView"
-        android:textColor="@color/black" />
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textView49"
@@ -115,7 +118,7 @@
         android:layout_marginEnd="77dp"
         android:layout_marginBottom="230dp"
         android:text="Next Station"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textStyle="bold" />
 
     <TextView
@@ -129,7 +132,7 @@
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="230dp"
         android:text="TextView"
-        android:textColor="@color/black" />
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textSpeed2"
@@ -143,7 +146,7 @@
         android:layout_marginBottom="188dp"
 
         android:text="Km/h"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="16dp"
         android:textStyle="bold"></TextView>
 
@@ -159,7 +162,7 @@
         android:layout_marginBottom="186dp"
 
         android:text="0"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="22dp"
         android:textStyle="bold"></TextView>
 
@@ -174,7 +177,7 @@
         android:layout_marginEnd="199dp"
         android:layout_marginBottom="271dp"
         android:text="TextView"
-        android:textColor="@color/black" />
+        android:textColor="@color/white" />
 
     <ListView
         android:id="@+id/listviews"
@@ -183,6 +186,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
+    android:background="@color/white"
 
         android:layout_marginStart="15dp"
         android:layout_marginEnd="27dp"

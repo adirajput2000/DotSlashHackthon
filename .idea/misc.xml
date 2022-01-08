@@ -5,12 +5,12 @@
       <map>
         <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/drawable/edittextviewdesign.xml" value="0.26171875" />
         <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_bus_location_show.xml" value="0.20989583333333334" />
-        <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_driver_after_login.xml" value="0.25" />
+        <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_driver_after_login.xml" value="0.16" />
         <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_driver_app.xml" value="0.16" />
         <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_driver_registration.xml" value="0.16" />
         <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_main.xml" value="0.14" />
         <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_map_show_bus.xml" value="0.25" />
-        <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_passenger_app.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/activity_passenger_app.xml" value="0.16" />
         <entry key="..\:/Users/i19cy/AndroidStudioProjects/BusTrackWar/app/src/main/res/layout/bus_details_recycle.xml" value="0.2" />
       </map>
     </option>
